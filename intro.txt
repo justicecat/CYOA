@@ -1,0 +1,5 @@
+You Wake Up in the middle of a forest. Fog surrounds you as pine trees and bushes seem to stretch out in all directions only broken by undergrowth, bushes, or fallen branches. What do you do?
+
+1.1: Pinch yourself to wake up.
+1.2: Walk in a random direction. Perhaps with available landmarks you can get your bearings?
+1.I: Check Your Inventory.
